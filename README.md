@@ -1,1 +1,1 @@
-# Blackjack
+# Blackjack game written in Java
